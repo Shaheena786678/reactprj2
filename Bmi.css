@@ -1,0 +1,38 @@
+.container-fluid-1 {
+  margin: 20px;
+  background-image: url(bmibg.jpg);
+}
+ 
+.card-wrapper {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+}
+ 
+.section-A {
+  padding: 15px;
+}
+ 
+.bmi-container {
+  margin-top: 20px;
+}
+ 
+.input-group {
+  margin-bottom: 10px;
+}
+ 
+.calculate-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+ 
+.result-section {
+  margin-top: 20px;
+}
+ 
+.card-wrapper {
+  margin-bottom: 20px;
+}

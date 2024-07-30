@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+.container-fluid3
+{
+    width:100%;
+    height: 100%;
+    background-color:rgb(27, 24, 24) ;
+}
+.carda
+{
+ 
+    width:auto; 
+    height: auto;
+    background-color:rgb(27, 24, 24) ;
+}
+ .carda h3
+ {
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.carda h4
+{
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite CU", cursive;
+    color: wheat;
+}
+.card1 h3{
+    color: aqua;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+.card1 h4{
+    text-align: center;
+    font-size: small;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    color: wheat;
+}
+.card2{
+    float: right;
+    width:60%;
+    height: auto;
+    margin: 50px;
+    padding: 15px;
+    margin-right: 150px;
+    background-color: white;
+    border: 2px;
+}
+.card1{
+    float: left;
+    width:90%;
+    height: auto;
+    margin: 40px;
+    padding: 20px;  
+}
+input{
+    width: 300px;
+}
+button{
+    background-color: rgb(6, 184, 243);
+    width: 300px;
+    color: white;
+   
+}
+ 
+ 
+ 
+ 
+ 
+/* .boxx{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    background-image: url("contact.jpg");
+    background-size: cover;
+   
+  } */
+ 
+   /* Form Container */
+ 
+   
+ 

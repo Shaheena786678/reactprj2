@@ -1,0 +1,45 @@
+.text
+{
+    background-color: white;
+   border-radius: 10px;
+   width: 350px;
+   height: 520px;
+   padding-top: 60px;
+   box-shadow: 2px 2px 2px 2px rgb(24, 24, 24);
+ 
+}
+.App {
+  background: url(login.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ 
+input {
+  padding: 10px;
+ width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+ 
+}
+ 
+h2{
+  text-align: center;
+ padding-top: 10px;
+ 
+}
+ 
+ button{
+   
+ align-items: center;
+ background-color: aqua;
+ 
+ 
+ 
+}
+ 
